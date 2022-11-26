@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hello there! I am <strong>DetectiveNightPrime</strong> 👋🏻
+    Hello there! I am <strong>Zero</strong> 👋🏻
 </h2>
 <p align="center">
     I am a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
@@ -10,8 +10,8 @@
   </a> 
 <br>
 <br>
-<a href="https://discord.com/users/603948445362946084">
-        <img src="https://lanyard-profile-readme.vercel.app/api/603948445362946084?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
+<a href="https://discord.com/users/920461406653001781">
+        <img src="https://lanyard-profile-readme.vercel.app/api/920461406653001781?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
     </a>
 </p>
 &nbsp;
@@ -25,7 +25,6 @@
     </a>
     &nbsp;
     <a href="https://twitter.com/DetectiveNightPrime/">
-
         <img src="./assets/icons/other/twitter-solid.svg/" width="25px" />
     </a>
     &nbsp;
@@ -35,7 +34,6 @@
 </p>
 <hr/>
 <p align="center">
-
     <a href="https://github.com/DetectiveNightPrime/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=DetectiveNightPrime&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
   </a> 
