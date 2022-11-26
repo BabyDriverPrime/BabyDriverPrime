@@ -7,7 +7,7 @@
 <br>
 <a href="https://github.com/DetectiveNightPrime/">
         <img src="https://komarev.com/ghpvc/?username=DetectiveNightPrime&color=red" />
-        <img src="https://komarev.com/ghpvc/?username=DetectiveNightPrime&color=red" />
+<iframe src="https://discord.com/widget?id=979322180288520193&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
   </a> 
 <br>
 <br>
