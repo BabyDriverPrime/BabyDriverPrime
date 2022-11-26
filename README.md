@@ -11,8 +11,8 @@
 <br>
 <br>
 <a href="https://discord.com/users/920461406653001781">
-        <img src="https://lanyard.cnrad.dev/api/920461406653001781?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
-        <img src="https://lanyard.cnrad.dev/api/920461406653001781?idleMessage=%22May%20The%20Code%20Be%20With%20you%22borderRadius=25px" />
+        <img src="https://lanyard.cnrad.dev/api/920461406653001781?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px"/>
+        <img src="https://lanyard.cnrad.dev/api/920461406653001781?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px"/>
     </a>
 </p>
 &nbsp;
