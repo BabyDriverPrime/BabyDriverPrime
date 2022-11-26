@@ -2,12 +2,11 @@
     Hello there! I am <strong>Zero</strong> 👋🏻
 </h2>
 <p align="center">
-    I am a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
+    I am a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.gg/Zym9P2V6et">Discord</a></strong>
 <br>
 <br>
 <a href="https://github.com/DetectiveNightPrime/">
         <img src="https://komarev.com/ghpvc/?username=DetectiveNightPrime&color=red" />
-        <img src="https://discord.com/widget?id=979322180288520193&theme=dark" />
   </a> 
 <br>
 <br>
