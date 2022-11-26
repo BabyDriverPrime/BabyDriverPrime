@@ -1,8 +1,8 @@
 <h2 align="center">
-    Hello there! I am <strong>Hyper Night</strong> 👋🏻
+    Hello there! I am <strong>Zero</strong> 👋🏻
 </h2>
 <p align="center">
-    I am a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.gg/Zym9P2V6et">Discord</a></strong>
+    I am a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
 <br>
 <br>
 <a href="https://github.com/DetectiveNightPrime/">
@@ -24,13 +24,14 @@
         <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/DetectiveNightPrime/">
+    <a href="https://twitter.com/RestInPeaceZero/">
         <img src="./assets/icons/other/twitter-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://www.youtube.com/c/DetectiveNightPrime">
+    <a href="https://www.youtube.com/c/ZeroSync">
         <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
     </a>
+    
 </p>
 <hr/>
 <p align="center">
@@ -41,3 +42,9 @@
         <img src="https://github-readme-stats.vercel.app/api?username=DetectiveNightPrime&show_icons=true&theme=gruvbox" />
   </a> 
 <br>
+<a href="https://github.com/DetectiveNightPrime/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DetectiveNightPrime&theme=gruvbox&langs_count=8&layout=compact" />
+  </a> 
+</p>
+
+
