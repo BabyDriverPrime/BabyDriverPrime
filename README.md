@@ -13,7 +13,7 @@
 <br />
 
 <!-- ![Discord](https://invidget.switchblade.xyz/DetectiveNightPrime?theme=light#gh-light-mode-only) -->
-[![Discord Invite](https://invidget.switchblade.xyz/DetectiveNightPrime#gh-dark-mode-only)](https://discord.gg/DetectiveNightPrime)
+[![Discord Invite](https://invidget.switchblade.xyz/DetectiveNightPrime#gh-dark-mode-only)](https://discord.gg/gx72mWw6A7)
 
 **[Join Discord][discord]**
 
